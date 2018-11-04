@@ -1,0 +1,2 @@
+# financeiro
+Gestor financeiro simples.
